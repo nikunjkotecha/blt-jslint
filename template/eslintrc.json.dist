@@ -1,0 +1,12 @@
+{
+  "globals": {
+    "globalThis": true,
+    "ga": true
+  },
+  "rules": {
+    "prettier/prettier": ["error", { "singleQuote": true }],
+    "quotes": [2, "single", {"avoidEscape": true}],
+    "operator-linebreak": ["error", "before"],
+    "func-names": ["error", "as-needed"]
+  }
+}

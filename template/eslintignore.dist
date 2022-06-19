@@ -1,0 +1,9 @@
+vendor/**/*
+docroot/core/**/*
+docroot/sites/**/files/**/*
+docroot/libraries/**/*
+docroot/sites/**/libraries/**/*
+docroot/profiles/**/libraries/**/*
+docroot/**/node_modules/**/*
+docroot/**/dist/*
+docroot/**/*.min.js
